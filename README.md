@@ -1,4 +1,4 @@
-# Employee Management System (Frontend Intern Assignment)
+# Employee Management System 
 
 A responsive React single page app for managing employees. No backend: data starts from a JSON array in code and is saved to `localStorage`.
 
