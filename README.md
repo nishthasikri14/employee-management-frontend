@@ -2,6 +2,14 @@
 
 A responsive React single page app for managing employees. No backend: data starts from a JSON array in code and is saved to `localStorage`.
 
+##Screenshots
+
+[Employee list] :  (<screenshots/Screenshot 2026-10-14 213203.png>)
+
+[Validation] : (<screenshots/Screenshot 2026-10-14 213448.png>)
+
+[Mobile view] : (<screenshots/Screenshot 2026-10-14 214824.png>)
+
 ## Features
 
 Required
